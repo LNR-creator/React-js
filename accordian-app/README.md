@@ -44,3 +44,7 @@ Through this project, I learned:
 ## ScreenShots of the Output
 
 https://drive.google.com/file/d/1RDAj_ajbyefVxliwulIpeY9_t5WOWhc5/view?usp=drive_link
+
+## Output Preview
+
+https://acoordian.vercel.app/
